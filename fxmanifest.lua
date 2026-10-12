@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'aicore_evidence'
 description 'Evidence system for Aicore'
-repository 'https://github.com/0error-scripts/aicore_evidence'
+repository 'https://github.com/aicore-fivem/aicore_evidence'
 version '1.0.0'
 
 ox_lib 'locale'
